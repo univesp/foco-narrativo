@@ -1,0 +1,79 @@
+@import 'main.css';
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.grid-secao2 {
+  display: grid;
+  grid-template-columns: 33.3% 33.3% 33.3%;
+  text-align: center;
+}
+
+.grid-secao3 {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  text-align: center;
+}
+
+.grid-titulosecao3 {
+  display: grid;
+  grid-template-columns: 40% 20% 40%
+}
+
+.grid-secao4 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: grid;
+  grid-template-columns: 48% 4% 48%;
+}
+
+.grid-secao5 {
+  display: grid;
+  grid-template-columns: 60% 40%;
+}
+
+.grid-secao6 {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.grid-botoesquest {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+
+
+
+@media only screen and (max-width: 991px){
+
+  .grid-secao2{
+    grid-template-columns: 100%;
+  }
+  
+}
+
+
+
+@media only screen and (max-width: 768px) {
+
+  .grid-secao2 {
+    grid-template-columns: 100%;
+  }
+
+  .grid-botoesquest {
+    grid-template-columns: 100%;
+  }
+
+  .grid-secao3{
+    grid-template-columns: 100%;
+  }
+
+
+  .grid-secao6 {
+    display: grid;
+    grid-template-columns: 100%;
+  }
+
+}

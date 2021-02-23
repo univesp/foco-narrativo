@@ -1,0 +1,202 @@
+
+@media only screen and (max-width: 991px) {
+    .paddingfive {
+      padding: 2%;
+    }
+  
+    p.paragrafo {
+      font-size: 14px;
+    }
+  
+    .container {
+      width: 100%;
+    }
+  
+    button.botaotrecho {
+      width: 50%;
+    }
+  
+    .menu {
+      background-position: 50% 60%;
+    }
+  
+    .botaotrechorosa{
+      min-width: 80%;
+    }
+  
+    .botaotrechorosasair {
+      min-width: 200px;
+    }
+  
+    .botoesRoxos{
+      width: 80%;
+    }
+  
+    .escolhapontovista {
+      width: 80%;
+    }
+  
+    .aviso{
+      width: 52%;
+    text-align: center;
+    position: relative;
+    margin-top: 5%;
+    height: 50px;
+    margin-left: 24%;
+    padding-top: 2%;
+    }
+  
+    .img1 {
+      margin: 0 auto;
+      top: 15%;
+      position: relative;
+    }
+  
+    .aoi {
+      top: -17%;
+    left: -41%;
+    }
+    
+    .aon{
+      top: -6%;
+    left: -43%;
+    }
+    
+    .ect{
+      top: 7%;
+    left: -57%;
+    }
+    
+    .np{
+      top: -6%;
+    left: -57%;
+    }
+    
+    .osm {
+      top: -16%;
+    left: -46%;
+    }
+    
+    .os {
+      top: -6%;
+    left: -42%;
+    }
+    
+    .omd {
+      top: 7%;
+    left: -43%;
+    }
+    
+    .ac{
+      top: -6%;
+    left: -24%;
+    }
+
+    .rpl {
+      margin-top: 11%;
+    }
+
+    .cul {
+      margin-top: 10%;
+    }
+
+    .ajusteimg {
+      margin-top: 11px;
+    }
+
+    .aviso2 {
+      height: 50px;
+      width: 52%;
+      margin-left: 24%;
+      margin-bottom: 5%;
+      margin-top: 0%;
+      padding-top: 2%;
+  }
+
+  .mostrar {
+    left: 15%;
+}
+
+  .texto>div {
+    padding: 5px 17px;
+  }
+
+    textarea {
+      display: block;
+      margin: 0 auto;
+    }
+
+    div.fundolivro{
+      width: 100%;
+    }
+
+    div.questionario {
+      width: 108%;
+      padding-left: 10px;
+  }
+
+  div.hoverquest {
+    width: 93%;
+  }
+
+
+  .divdropdown{
+    width: 80%;
+    min-height: auto;
+    height: auto;
+  }
+
+  .divdropdown1, .divdropdown2{
+    width: 90%;
+    min-height: 610px;
+  }
+
+  
+  div.altincorreta {
+    width: 100%;
+  }
+
+  div.altcorreta {
+    width: 100%;
+  }
+
+button.botaotrechoamarelo {
+  width: 80%;
+  margin-bottom: 5%;
+}
+
+  div.carrossel {
+    width: 100%;
+  }
+
+  div.carrosseltitulo{
+    width: 100%;
+  }
+  
+  #secao2 > img:nth-of-type(1){
+    width: 70%; 
+  }
+
+  .fundolivro[data-questao='3'] .aspasamarelainversa {
+    top: 92%;
+  }
+
+  .fundolivro[data-questao='5'] .aspasamarelainversa {
+    top: 85%;
+  }
+
+  .fundolivro[data-questao='4'] .aspasamarela {
+    top: 2%;
+  }
+
+  .fundolivro[data-questao='7'] .aspasamarela {
+    top: 2%;
+  }
+
+  .fa-sort-down[data-element='#possibilidadeelimites'] {
+    background-color: #452E94;
+    width: 80%;
+}
+
+  }
+  

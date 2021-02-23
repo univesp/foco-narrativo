@@ -1,0 +1,148 @@
+@media only screen and (max-width: 768px) {
+  .img1 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 5%;
+  }
+
+  .rpl {
+    margin-top: 12%;
+  }
+
+  .sumarionarrativoimg {
+    padding-top: 20px;
+  }
+
+  .mobileoff {
+    display: none;
+  }
+
+  .mobileon {
+    display: block;
+  }
+
+  .SNxCI {
+    margin-top: 50%;
+  }
+
+  .ajusteimg {
+    margin-top: 0px;
+  }
+
+  .aviso {
+    padding-top: 2%;
+    background-color: #E5F5FF;
+    height: 70%;
+    margin: 3% auto;
+    width: 70%;
+  }
+
+  .botaotrechorosa {
+    width: 85%;
+  }
+
+  div.aprendizado {
+    width: 90%;
+    min-width: 400px;
+  }
+
+  div.carrosselmobile {
+    background-color: #007575;
+    height: 58px;
+    border-radius: 20px 20px 20px 20px;
+    width: 540px;
+    margin: 0 auto;
+  }
+
+  div.carrossel {
+    width: 90%;
+  }
+
+  .abc {
+    padding: 20px 0% 20px 0%;
+  }
+
+  .avancarsecao3 {
+    width: 50%;
+  }
+
+  textarea {
+    display: block;
+    margin: 0 auto;
+  }
+
+  button.botaotrecho {
+    margin-bottom: 5%;
+  }
+
+  .divdropdown {
+    width: 90%;
+  }
+
+  .escolhapontovista, .botoesRoxos {
+    width: 90%;
+  }
+
+  .aviso2 {
+    height: 50px;
+    width: 66%;
+    margin-left: 17%;
+    margin-bottom: 5%;
+    margin-top: 0%;
+    padding-top: 2%;
+  }
+
+  .divdropdown1 {
+    width: 90%;
+    height: auto;
+    padding: 20px 0px;
+    min-height: auto;
+  }
+
+  .divdropdown2 {
+    width: 90%;
+    height: auto;
+    min-height: auto;
+    padding: 20px 0px;
+  }
+
+  #secao4{
+    padding-bottom: 20px;
+  }
+
+  #secao4.mobileon .botaotrechoazul{
+   width: 22%;
+  }
+
+  .escondeConfirmar {
+    display: none;
+  }
+
+  button.botaotrechoamarelo {
+    width: 50%;
+}
+
+.fundolivro[data-questao='0'] .aspasamarelainversa {
+  top: 86%;
+}
+
+.fundolivro[data-questao='7'] .aspasamarelainversa {
+  top: 89%;
+}
+
+img.divisor {
+  width: 70%;
+  display: block;
+  margin: 5% auto;
+}
+
+.fa-sort-down[data-element='#possibilidadeelimites'] {
+  background-color: #452E94;
+  width: 90%;
+}
+
+
+
+
+
+}

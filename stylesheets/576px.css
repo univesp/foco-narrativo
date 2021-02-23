@@ -1,0 +1,210 @@
+@media only screen and (max-width: 576px) {
+
+  .pad {
+    padding-top: 5%;
+  }
+
+  .botaoDesligado{
+    display: none;
+  }
+
+  div.carrosselmobile {
+    width: 90%;
+    height: auto;
+    min-height: 60px;
+  }
+
+  button.botaotrechorosa {
+    width: 90%;
+  }
+
+  div.carrosselmobile {
+    width: 90%;
+  }
+
+  p.secoes {
+    font-size: 24px;
+  }
+
+  div.aprendizado {
+    min-width: 0px;
+    width: 90%;
+  }
+
+  #secao2>img:nth-of-type(1) {
+    width: 90%;
+  }
+
+  #secao5.mobileon>.container>img {
+    width: 90%;
+  }
+
+  .fa-sort-down[data-element='#possibilidadeelimites'] {
+    background-color: #452E94;
+    width: 90%;
+}
+
+  img.divisor {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 462px) {
+  button.botaotrechorosa {
+    font-family: 'Roboto Slab';
+    width: 90%;
+    text-align: center;
+    border: 3px solid #452E94;
+    background-color: #f9cfe0;
+    border-radius: 35px;
+    font-size: 18px;
+    color: #452E94;
+    margin: 0 auto;
+    display: block;
+    height: 93px;
+  }
+
+  #secao2>img:nth-of-type(1) {
+    width: 100%;
+  }
+
+  p.secoes {
+    font-size: 22px;
+  }
+
+  .fa-sort-down[data-element='#possibilidadeelimites'], .cenaimediata, .divdropdown2, .botaosumarionarrativo,
+  .fa-sort-down[data-element='#sumarionarrativo'], .divdropdown1 {
+    width: 100%;
+  }
+
+  #secao4.mobileon .botaotrechoazul {
+    width: 50%;
+  }
+
+  .fa-sort-down[data-element='#possibilidadeelimites'] {
+    background-color: #452E94;
+    width: 90%;
+}
+
+.fa-sort-down[data-element='#cenaimediata'] {
+  background-color: #007575;
+  width: 100%;
+}
+
+button.botaotrechoazul {
+  width: 50%;
+}
+
+.fundolivro[data-questao='0'] .aspasamarelainversa {
+  top: 93%;
+  left: 80%;
+}
+
+.fundolivro[data-questao='0'] .aspasamarela {
+  top: 0%;
+  left: 1%;
+}
+
+.fundolivro[data-questao='1'] .aspasamarelainversa {
+  top: 93%;
+  left: 80%;
+}
+
+.fundolivro[data-questao='1'] .aspasamarela {
+  top: 0%;
+  left: 1%;
+}
+
+.fundolivro[data-questao='2'] .aspasamarelainversa {
+  top: 93%;
+  left: 80%;
+}
+
+.fundolivro[data-questao='2'] .aspasamarela {
+  top: 0%;
+  left: 1%;
+}
+
+.fundolivro[data-questao='3'] .aspasamarelainversa {
+  top: 93%;
+  left: 80%;
+}
+
+.fundolivro[data-questao='3'] .aspasamarela {
+  top: 0%;
+  left: 1%;
+}
+
+.fundolivro[data-questao='4'] .aspasamarelainversa {
+  top: 93%;
+  left: 80%;
+}
+
+.fundolivro[data-questao='4'] .aspasamarela {
+  top: 0%;
+  left: 1%;
+}
+
+.fundolivro[data-questao='5'] .aspasamarelainversa {
+  top: 93%;
+  left: 80%;
+}
+
+.fundolivro[data-questao='5'] .aspasamarela {
+  top: 0%;
+  left: 1%;
+}
+
+.fundolivro[data-questao='6'] .aspasamarelainversa {
+  top: 93%;
+  left: 80%;
+}
+
+.fundolivro[data-questao='6'] .aspasamarela {
+  top: 0%;
+  left: 1%;
+}
+
+.fundolivro[data-questao='7'] .aspasamarelainversa {
+  top: 93%;
+  left: 80%;
+}
+
+.fundolivro[data-questao='7'] .aspasamarela {
+  top: 0%;
+  left: 1%;
+}
+
+.fundolivro[data-questao='8'] .aspasamarelainversa {
+  top: 93%;
+  left: 80%;
+}
+
+.fundolivro[data-questao='8'] .aspasamarela {
+  top: 0%;
+  left: 1%;
+}
+
+button.botaotrechoamarelo {
+  width: 64%;
+}
+
+
+div.facavcmesmo{
+  height: auto;
+  padding-bottom: 10px;
+}
+
+button.botaotrechorosa {
+  height: auto;
+}
+
+}
+
+section.revelada {
+  display: block;
+}
+
+.escondida {
+  display: none;
+}
